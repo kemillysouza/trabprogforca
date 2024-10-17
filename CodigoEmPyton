@@ -1,7 +1,5 @@
 # JOGO DA FORCA em Python
-# AUTOR: Edson Luiz Parisotto
-# Professor de programação
-# www.parisotto.net
+# AUTOR: Kemilly Souza
 
 # criando a coleção de palavras
 palavras = ["brasil", "uruguai", "inglaterra", "australia"]
